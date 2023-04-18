@@ -1,9 +1,6 @@
 ## **IT314** <br>
 ## **SOFTWARE ENGINEERING** <br>
 
-NAME -> KARTIK DANGI <br>
-ID -> 202001079 <br>
-
 ## **Section A**
 
 ## **Based on the input ranges, we can identify the following equivalence classes:** <br>
